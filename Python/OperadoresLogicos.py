@@ -16,3 +16,10 @@ print(saldo >= saque or saque <= limite)
 print(not 1000 > 1500)
 
 print(not "saque 1500")
+
+
+
+print(True and True)
+print(True and False)
+print(True or True)
+print(True or False)
