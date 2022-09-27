@@ -11,6 +11,3 @@ print(200 in saques)
 
 
 
-x = (22 - 10) * 3
-
-print(x)
